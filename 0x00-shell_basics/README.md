@@ -12,4 +12,10 @@
 11. list all files in current, parent and /boot directories in long format
 12. type of file in tmp folder
 13. create symbolic link
-14. copy all html files to parent director
+14. copy all html files to parent directory
+15. move all files that begin with uppercase letter
+16. remove all files that end with ~
+17. create directory and file with only two spaces
+18. list all the files in the directory in comma separated values, directories end with a slash, show hidden files, alpha ordered except . and .., only digits and letters are used to sort, digits should come first
+
+
